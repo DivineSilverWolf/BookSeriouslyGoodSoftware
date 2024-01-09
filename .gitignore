@@ -2,5 +2,6 @@
 /Chapter_1/src/main/resources/
 /Chapter_2/src/test/
 /Chapter_2/src/main/resources/
-/target/
+/Chapter_1/target/
+/Chapter_2/target/
 /.idea/
